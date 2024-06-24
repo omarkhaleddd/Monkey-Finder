@@ -1,0 +1,44 @@
+# .NET MAUI specific ignores
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+# Mono auto generated files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Maui specific
+AppPackages/
+AppxPackages/
+app_packages/
+BundleArtifacts/
+BundleOut/
+
+# OS generated files
+[Tt]humbs.db
+[Dd]esktop.ini
+[Dd]s_store
+.vscode/
+*.DS_Store
+
+# JetBrains Rider
+.idea/
+*.sln.iml
